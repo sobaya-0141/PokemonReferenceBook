@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PokemonReferenceBook.iml" filepath="$PROJECT_DIR$/.idea/modules/PokemonReferenceBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PokemonReferenceBook.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PokemonReferenceBook.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/PokemonReferenceBook.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/PokemonReferenceBook.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokemon_detail/PokemonReferenceBook.pokemon_detail.iml" filepath="$PROJECT_DIR$/.idea/modules/pokemon_detail/PokemonReferenceBook.pokemon_detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokemon_list/PokemonReferenceBook.pokemon_list.iml" filepath="$PROJECT_DIR$/.idea/modules/pokemon_list/PokemonReferenceBook.pokemon_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/PokemonReferenceBook.repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/PokemonReferenceBook.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/PokemonReferenceBook.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/PokemonReferenceBook.util.iml" />
+    </modules>
+  </component>
+</project>
